@@ -1,0 +1,6 @@
+name: FrogcraftTransformer
+main: FrogcraftTransformer
+version: 7.0.0
+api-version: '1.20'
+author: Frogcraft
+description: v7.0 - Beta 1.7.3 Piston Mechanics + Complete armor & sprint system

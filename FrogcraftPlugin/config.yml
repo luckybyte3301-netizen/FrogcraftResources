@@ -1,0 +1,16 @@
+sprint-prevention:
+  enabled: true
+  velocity-multiplier: 0.5
+  food-level: 1
+  restore-delay: 40
+  # ModernBeta-style armor system
+  armor-based-hunger: true
+  # If true, hunger is set based on armor worn (0 = no armor, 6+ = has armor)
+  # If false, uses simple constant hunger system
+
+mob-spawning:
+  enabled: true
+  # The light level hostiles can spawn in (Beta was 7 or less)
+  hostile-light-level: 7
+  # The light level passives can spawn in (Beta was 9 or more on grass)
+  passive-light-level: 9
